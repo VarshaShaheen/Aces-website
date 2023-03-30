@@ -381,6 +381,13 @@ h6,
     position: relative;
     transition: .5s;
     z-index: 1;
+    width: 19rem;
+    height: 30rem;
+}
+
+.team-card{
+    width: 19rem;
+    height: 30rem;
 }
 
 .team-item::after {
